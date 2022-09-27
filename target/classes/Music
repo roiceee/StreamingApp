@@ -1,0 +1,5 @@
+UntitledMusic,20,false,src/main/resources/UntitledMusic.wav
+Fireworks,30,false,src/main/resources/Fireworks.wav
+Iris,50,true,src/main/resources/Iris.wav
+Sanctuary,75,true,src/main/resources/Sanctuary.wav
+MixedNuts,100,true,src/main/resources/MixedNuts.wav
